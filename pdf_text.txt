@@ -1,0 +1,103 @@
+Nyalakonda Srinayan 
+LinkedIn: https://www.linkedin.com/in/srinayan-n 
+Email: srinayan122345@gmail.com 
+GitHub: 
+https://github.com/Srinayan-96 
+ 
+Mobile: +91-9505965175 
+SKILLS 
+• Languages: 
+C++, JavaScript, C, Java, Python 
+• Frameworks & Libraries: 
+React, Spring, Express.js, Spring MVC, Tailwind CSS 
+• Tools/Platforms: 
+GitHub, MongoDB, Figma, MySQL 
+• Soft Skills: 
+Risk Awareness and Forward Planning, Learning Agility, Adaptive Leadership 
+ 
+PROJECTS 
+• PlanIt - Smart Task & Daily Planning Application 
+Oct 2025 - Nov 2025 
+- 
+Implemented a task management platform to help users plan, track, and manage daily activities in an organized manner. 
+- 
+Added custom reminders with real-time UI updates using React state management and backend APIs, improving task 
+tracking efficiency by 40%. 
+- 
+Optimized the interface and workflows to support consistent user productivity and smoother daily planning. 
+Tech Used: React.js, Node.js (Express), MongoDB 
+• LawEZY - AI Legal Assistance Platform 
+Aug 2025 - Sept 2025 
+- 
+Architected a centralized legal-tech system connecting users with AI guidance, lawyer support and case tracking. 
+- 
+Integrated AI-based legal query assistance and secure data workflows to enable smooth interaction across key modules. 
+- 
+Achieved a 60% reduction in search time by simplifying access to legal resources and case-related information. 
+Tech Used: React.js, Node.js (Express), MongoDB 
+• AssetCalc - Smart Mortgage Assistance System 
+May 2025 - Jun 2025 
+- 
+Designed a multi-asset loan estimation platform to assist users in evaluating loans for land, property, and vehicles through 
+a unified interface. 
+- 
+Utilized automated data lookup and an AI chatbot to process user inputs and provide quick loan-related guidance. 
+- 
+Improved financial data accessibility, reducing navigation effort by 50% and enabling quicker decisions. 
+Tech Used: HTML, CSS, JavaScript 
+• CPUFlow - CPU Scheduling Visualization Simulator 
+Apr 2025 
+- 
+Simulated multiple CPU scheduling algorithms to help users understand process scheduling concepts with execution flow. 
+- 
+Enabled real-time Gantt chart visualizations using JavaScript logic to clearly represent scheduling behavior 
+- 
+Published the platform online using GitHub Pages / Netlify for accessible use during review and learning. 
+Tech Used: HTML, CSS, JavaScript, Python 
+TRAINING 
+ 
+Emerging Technologies (AI & Cloud) 
+Jul 2025 - Aug 2025 
+- 
+Learned the fundamentals of cloud computing and AI application workflows using IBM Cloud services. 
+- 
+Gained hands-on exposure to IBM Watsonx.ai and the Granite model for generating accurate, real-time 
+AI-driven responses. 
+- 
+Understood model deployment concepts and secure integration of AI services within cloud-based applications. 
+Think Design Prototype – Design Thinking and Figma 
+Jun 2025 - Jul 2025 
+- 
+Explored Design Thinking for problem definition and user research to identify user pain points. 
+- 
+Created a high-fidelity prototype in Figma showcasing functional UI navigation. 
+- 
+Validated solutions with user feedback resulting in 70% better usability clarity. 
+CERTIFICATES 
+• DevOps and AI on AWS | Coursera 
+Nov 2025 
+• Getting Started with Git and GitHub | Coursera 
+Aug 2025 
+• Build Generative AI Apps and Solutions with No-Code Tools | Infosys 
+Aug 2025 
+• Software Engineering Essentials | Coursera 
+Jun 2025 
+• JavaScript: Unlocking the Power of JavaScript | Scaler Academy 
+Feb 2024 
+EXTRA-CURRICULAR ACTIVITIES 
+• Honored with certificate of excellence during MERN training. 
+• Recognized with a Certificate of Appreciation for plantation drive with Greenpeace India. 
+• Competed in Web-KA Hackathon , a hackathon focused on building responsive websites. 
+EDUCATION 
+Lovely Professional University 
+Phagwara, Punjab 
+Bachelor of Technology - Computer Science and Engineering; CGPA: 7.23 
+Aug 2023 - Present 
+Resonance 
+Hyderabad, Telangana 
+Intermediate; Percentage: 91% 
+Jun 2022 - Apr 2023 
+Vivekananda Residential School 
+Karimnagar, Telangana 
+Matriculation; Percentage: 89% 
+Jun 2020 - Mar 2021 
