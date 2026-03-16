@@ -11,7 +11,14 @@ export const projects = [
       'Designed and implemented scalable backend services with Spring Data JPA, Hibernate, and MySQL, incorporating JWT-based authentication and role-based authorization to secure API endpoints for ADMIN, DOCTOR, and RECEPTIONIST roles.',
       'Developed an intelligent appointment auto-scheduler that dynamically assigns patients to the least-loaded doctor, while implementing DTO mapping, validation layers, and global exception handling to ensure clean API design and reliable system performance.',
     ],
+    details: [
+      'MediCore was designed to address the challenges of fragmented data management and inefficient scheduling by building a structured backend system that centralizes patient records, doctor management, and appointment workflows into a single unified platform.',
+      'One of the key aspects of the system is its layered architecture using Controller, Service, and Repository layers, which ensures that the application remains organized, maintainable, and scalable as the system grows.',
+      'A particularly interesting feature implemented is an intelligent appointment auto-scheduler. Instead of manual assignment, the system analyzes real-time workload data and automatically assigns patients to the least busy doctor available, optimizing workload distribution.',
+      'Security was a major consideration, integrating JWT tokens and Spring Security to ensure that sensitive healthcare data remains protected while allowing secure access for authorized roles like doctors and administrators.',
+    ],
     tech: 'Java, Spring Boot, Spring Security, JWT, Spring MVC, Spring Data JPA, Hibernate, MySQL, REST APIs, Git',
+    github: 'https://github.com/Srinayan-96/mediflow',
   },
   {
     id: 'planit',
@@ -25,7 +32,14 @@ export const projects = [
       'Added custom reminders with real-time UI updates using React state management and backend APIs, improving task tracking efficiency by 40%.',
       'Optimized the interface and workflows to support consistent user productivity and smoother daily planning.',
     ],
+    details: [
+      'PlanIt was built as a lightweight task management platform that helps users organize their daily activities, track tasks, and manage their schedule more effectively through an intuitive planning system.',
+      'One of the key features is real-time UI updates using React’s state management, which allows the interface to instantly reflect task changes without requiring page reloads, creating a smoother user experience.',
+      'The backend system, designed with Node.js and Express, handles task storage and retrieval through API endpoints, while MongoDB provides a flexible document-based structure for managing user data.',
+      'Developing this project strengthened my understanding of full-stack development and the interaction between responsive frontend components and backend APIs.',
+    ],
     tech: 'React.js, Node.js (Express), MongoDB',
+    github: 'https://github.com/Srinayan-96/PlanIt---Smart-Task-Daily-Planning-Application-',
   },
   {
     id: 'lawezy',
@@ -39,7 +53,15 @@ export const projects = [
       'Integrated AI-based legal query assistance and secure data workflows to enable smooth interaction across key modules.',
       'Achieved a 60% reduction in search time by simplifying access to legal resources and case-related information.',
     ],
+    details: [
+      'LawEZY is a legal-tech platform designed to simplify access to legal information by connecting users with AI-powered guidance and structured support resources.',
+      'The platform integrates AI-based legal query assistance, allowing users to get immediate guidance on legal topics, which significantly reduces the time required to find relevant legal procedures.',
+      'An essential feature is the case-tracking system, which enables users to monitor their case details and interactions with legal professionals through a centralized and accessible interface.',
+      'Through this project, I explored how AI-driven insights can be integrated into web applications to improve decision-making processes and democratization of information.',
+    ],
     tech: 'React.js, Node.js (Express), MongoDB',
+    github: 'https://github.com/Srinayan-96/LawEZY',
+    live: 'https://www.lawezy.in',
   },
   {
     id: 'assetcalc',
@@ -53,7 +75,15 @@ export const projects = [
       'Utilized automated data lookup and an AI chatbot to process user inputs and provide quick loan-related guidance.',
       'Improved financial data accessibility, reducing navigation effort by 50% and enabling quicker decisions.',
     ],
+    details: [
+      'AssetCalc is a smart mortgage assistance system that helps users quickly evaluate potential loans for land, house, or vehicle investments through a unified financial interface.',
+      'The system consolidates loan evaluation tools in one place, reducing the need to search through different calculators, and provides estimated loan evaluations based on basic user input.',
+      'To improve usability, I implemented an AI-driven chatbot that guides users through concepts, answers questions, and helps them interpret the generated results.',
+      'The project focus was on data accessibility and automation, which successfully reduced user navigation effort by nearly 50%, enabling faster and more informed financial decisions.',
+    ],
     tech: 'HTML, CSS, JavaScript',
+    github: 'https://github.com/Srinayan-96/Mortage-calculator',
+    live: 'https://mortgage-calcula.netlify.app',
   },
   {
     id: 'cpuflow',
@@ -67,6 +97,14 @@ export const projects = [
       'Enabled real-time Gantt chart visualizations using JavaScript logic to clearly represent scheduling behavior.',
       'Published the platform online using GitHub Pages / Netlify for accessible use during review and learning.',
     ],
+    details: [
+      'CPUFlow was built as an educational tool to make abstract operating system scheduling algorithms easier to learn through real-time visualization.',
+      'The platform demonstrates execution flows for algorithms like FCFS, SJF, and Round Robin, allowing users to input process parameters and see the resulting order on dynamic Gantt charts.',
+      'By combining algorithmic logic with frontend visualization, the simulator provides a more interactive and intuitive learning experience than traditional textbook explanations.',
+      'This project allowed me to bridge the gap between complex OS concepts and JavaScript-driven UI rendering, resulting in a tool accessible directly through the browser.',
+    ],
     tech: 'HTML, CSS, JavaScript, Python',
+    github: 'https://github.com/Srinayan-96/Smart-CPU-Scheduler',
+    live: 'https://cpu-scheduler-simulator.netlify.app',
   },
 ];
